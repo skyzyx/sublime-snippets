@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+namespace
+]]></content>
+	<tabTrigger>ns</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

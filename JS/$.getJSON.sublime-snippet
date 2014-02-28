@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[\$.getJSON('${1:query.json}', ${2:function(${3:data, status}) {$0\}});]]></content>
+	<tabTrigger>json</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[\$this = \$(this);$0]]></content>
+	<tabTrigger>thi</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
